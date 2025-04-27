@@ -1,0 +1,1 @@
+export const env={"PUBLIC_SUPA_URL":"https://nhufgrglmwltfbmuplym.supabase.co","PUBLIC_SUPA_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5odWZncmdsbXdsdGZibXVwbHltIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU0ODY4MjEsImV4cCI6MjA2MTA2MjgyMX0.a7E9Cdo3k8htgyMc8aPkOC1BmSL6I0Ah46JqwR6_dQ4"}
