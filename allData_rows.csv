@@ -1,0 +1,14 @@
+id,created_at,country,visa_type,application_date,response_date,method
+9,2025-04-28 14:01:16.202396+00,Ägypten,Chancenkarte,2025-02-23,2025-06-02,TLSContact
+10,2025-04-28 20:19:42.937056+00,Ägypten,Studium,2025-04-08,2025-05-08,TLSContact
+11,2025-05-04 09:11:01.0346+00,Japan,Ausbildung,2025-05-04,2025-05-06,lokale Botschaft
+12,2025-05-17 08:57:58.163462+00,Ägypten,Chancenkarte,2025-02-05,2025-05-07,TLSContact
+13,2025-05-25 22:32:11.518542+00,Ägypten,Anders,2025-05-12,2025-05-26,TLSContact
+14,2025-06-03 11:30:16.131919+00,Ägypten,Anders,2025-06-03,2025-06-17,lokale Botschaft
+15,2025-06-13 04:04:13.497832+00,Ägypten,Studium,2025-06-13,2025-07-13,TLSContact
+16,2025-06-19 11:53:33.388836+00,Ägypten,Ausbildung,2025-06-01,2025-06-20,TLSContact
+17,2025-07-23 11:44:35.716172+00,Polen,Studium,2025-07-09,2025-07-23,lokale Botschaft
+18,2025-07-23 11:46:50.184632+00,Ukraine,Anders,2025-07-01,2025-07-31,Digital
+19,2025-07-23 11:48:04.245607+00,Singapur,Anders,2025-07-10,2025-07-23,lokale Botschaft
+20,2025-07-23 11:50:04.174488+00,Vereinigtes Königreich,Ausbildung,2025-06-01,2025-06-15,Digital
+21,2025-07-23 11:51:11.162355+00,Deutschland,Anders,2025-07-23,2025-07-24,Digital
